@@ -43,12 +43,6 @@ Developed as part of the **GISC412 course (2025)** at the University of Canterbu
 Top high-suitability areas: **Jellie Park, Ilam North, Fendalton**, with smaller clusters in Avonhead and Riccarton.
 
 ---
-
-## 📂 Repository Structure
-明白啦 👍。你这段内容其实就是 **仓库 README.md 里的 “目录结构 + 使用说明”** 部分。我帮你排版整理成一份规范的 Markdown，可以直接复制粘贴到 GitHub 仓库的 `README.md` 中。
-
----
-
 # 📂 Repository Structure
 
 ```
