@@ -45,8 +45,57 @@ Top high-suitability areas: **Jellie Park, Ilam North, Fendalton**, with smaller
 ---
 
 ## 📂 Repository Structure
-notebooks/ → Jupyter notebooks (Python analysis)
-report/ → Final PDF report
-figures/ → Maps and charts
-outputs/ → Spatial outputs (GeoPackage/CSV)
-data/ → Sample datasets (small extracts only)
+明白啦 👍。你这段内容其实就是 **仓库 README.md 里的 “目录结构 + 使用说明”** 部分。我帮你排版整理成一份规范的 Markdown，可以直接复制粘贴到 GitHub 仓库的 `README.md` 中。
+
+---
+
+# 📂 Repository Structure
+
+```
+notebooks/   → Jupyter notebooks (Python analysis)
+report/      → Final PDF report
+figures/     → Maps and charts
+outputs/     → Spatial outputs (GeoPackage/CSV)
+data/        → Sample datasets (small extracts only)
+```
+
+---
+
+# 🔧 How to Reproduce
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/yourusername/student-housing-accessibility-christchurch.git
+   cd student-housing-accessibility-christchurch
+   ```
+
+2. Open the main notebook in Jupyter:
+
+   ```
+   notebooks/GISC412_ProjectCode_WenjuanWang_submit.ipynb
+   ```
+
+3. Install dependencies (using conda):
+
+   ```bash
+   conda install geopandas osmnx contextily matplotlib networkx
+   ```
+
+4. Run cells step by step
+   *(note: replace data paths if using your own datasets).*
+
+---
+
+# 📄 License
+
+MIT License – feel free to use and adapt, with citation.
+
+---
+
+# ✍️ Citation
+
+Wang, W. (2025). *International Student Family Housing Site Selection: A Spatial Accessibility Analysis in Christchurch*.
+University of Canterbury, GISC412.
+
+---
