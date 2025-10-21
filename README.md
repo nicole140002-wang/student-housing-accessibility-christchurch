@@ -45,3 +45,8 @@ Top high-suitability areas: **Jellie Park, Ilam North, Fendalton**, with smaller
 ---
 
 ## 📂 Repository Structure
+notebooks/ → Jupyter notebooks (Python analysis)
+report/ → Final PDF report
+figures/ → Maps and charts
+outputs/ → Spatial outputs (GeoPackage/CSV)
+data/ → Sample datasets (small extracts only)
